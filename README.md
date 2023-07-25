@@ -4,7 +4,7 @@ we devloped
 this website for library management system under supervision of  associate professor aruna tiwari  
 that 
 features::
--add book from main website;
+-add book from main website;.
 -remove book
 -new student login in liberay
 -issue book 
