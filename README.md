@@ -29,5 +29,5 @@ on youtube code with harry website devlopment and how we can run the website
 
 IF Any querry related to this website 
 then contact
-for cse210001012@iiti.ac.in  cse210001054@iiti.ac.in
+for cse210001012@iiti.ac.in         cse210001054@iiti.ac.in
 
