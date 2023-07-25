@@ -3,7 +3,7 @@ CS207 Minor Project
 we devloped 
 this website for library management system under supervision of  associate professor aruna tiwari  
 that 
-features:
+features::
 -add book from main website;
 -remove book
 -new student login in liberay
