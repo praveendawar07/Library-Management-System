@@ -22,10 +22,6 @@ to open the project follow this step:
 click on live server option in vs code and run main file of the project 
 
 
-if you are failed to run this project then::
- you watch video 
-on youtube code with harry website devlopment and how we can run the website
-
 
 IF Any querry related to this website 
 then contact
